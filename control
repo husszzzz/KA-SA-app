@@ -1,0 +1,9 @@
+Package: com.shshop.tweak
+Name: SH SHOP
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: SH SHOP Mod
+Maintainer: SH SHOP
+Author: SH SHOP
+Section: Tweaks
